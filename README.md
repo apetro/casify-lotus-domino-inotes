@@ -1,0 +1,1 @@
+This is an empty readme file for establishing the casify-lotus-domino-inotes Git repository.
